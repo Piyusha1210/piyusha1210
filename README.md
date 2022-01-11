@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Piyush Agrawal
-### 🔭 I’m currently working on Web Development Projects
-### 🌱 I’m currently learning C++ and Java
 ### 👀 I’m interested in Competetive Programming and Web development
+### 🌱 I’m currently learning C++ and Java
+### 🔭 I’m currently working on Web Development Projects
 ### 📫 How to reach me: piyusha1210@gmail.com
 
 <!--
