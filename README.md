@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Piyush Agrawal
-### 👀 I’m interested in Competetive Programming and Web development
-### 🌱 I’m currently learning C++ and Java
-### 🔭 I’m currently working on Web Development Projects
-### 📫 How to reach me: piyusha1210@gmail.com
+👋 Hi there, I'm Piyush Agrawal
+👀 I’m interested in Competetive Programming and Web development
+🌱 I’m currently learning C++ and Java
+🔭 I’m currently working on Web Development Projects
+📫 How to reach me: piyusha1210@gmail.com
 
 <!--
 **Piyusha1210/piyusha1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
